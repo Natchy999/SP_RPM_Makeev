@@ -1,0 +1,8 @@
+C:\Users\Acid\source\repos\lab2_dasdasdas\bin\Debug\lab2_dasdasdas.exe.config
+C:\Users\Acid\source\repos\lab2_dasdasdas\bin\Debug\lab2_dasdasdas.exe
+C:\Users\Acid\source\repos\lab2_dasdasdas\bin\Debug\lab2_dasdasdas.pdb
+C:\Users\Acid\source\repos\lab2_dasdasdas\obj\Debug\lab2_dasdasdas.csproj.AssemblyReference.cache
+C:\Users\Acid\source\repos\lab2_dasdasdas\obj\Debug\lab2_dasdasdas.csproj.CoreCompileInputs.cache
+C:\Users\Acid\source\repos\lab2_dasdasdas\obj\Debug\lab2_dasdasdas.exe
+C:\Users\Acid\source\repos\lab2_dasdasdas\obj\Debug\lab2_dasdasdas.pdb
+C:\Users\Acid\source\repos\lab2_dasdasdas\obj\Debug\lab2_dasdasdas.exe.config
