@@ -1,0 +1,9 @@
+C:\Users\Acid\Documents\GitHub\SP_RPM\LB_3\CSharp\lb3_33333\bin\Debug\lb3_33333.exe.config
+C:\Users\Acid\Documents\GitHub\SP_RPM\LB_3\CSharp\lb3_33333\bin\Debug\lb3_33333.exe
+C:\Users\Acid\Documents\GitHub\SP_RPM\LB_3\CSharp\lb3_33333\bin\Debug\lb3_33333.pdb
+C:\Users\Acid\Documents\GitHub\SP_RPM\LB_3\CSharp\lb3_33333\obj\Debug\lb3_33333.csproj.AssemblyReference.cache
+C:\Users\Acid\Documents\GitHub\SP_RPM\LB_3\CSharp\lb3_33333\obj\Debug\lb3_33333.csproj.ResolveComReference.cache
+C:\Users\Acid\Documents\GitHub\SP_RPM\LB_3\CSharp\lb3_33333\obj\Debug\lb3_33333.csproj.CoreCompileInputs.cache
+C:\Users\Acid\Documents\GitHub\SP_RPM\LB_3\CSharp\lb3_33333\obj\Debug\lb3_33333.exe
+C:\Users\Acid\Documents\GitHub\SP_RPM\LB_3\CSharp\lb3_33333\obj\Debug\lb3_33333.pdb
+C:\Users\Acid\Documents\GitHub\SP_RPM\LB_3\CSharp\lb3_33333\obj\Debug\lb3_33333.exe.config
