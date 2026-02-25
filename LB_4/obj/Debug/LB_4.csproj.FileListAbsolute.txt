@@ -1,0 +1,8 @@
+C:\Users\Acid\Documents\GitHub\SP_RPM\LB_4\bin\Debug\LB_4.exe.config
+C:\Users\Acid\Documents\GitHub\SP_RPM\LB_4\bin\Debug\LB_4.exe
+C:\Users\Acid\Documents\GitHub\SP_RPM\LB_4\bin\Debug\LB_4.pdb
+C:\Users\Acid\Documents\GitHub\SP_RPM\LB_4\obj\Debug\LB_4.csproj.AssemblyReference.cache
+C:\Users\Acid\Documents\GitHub\SP_RPM\LB_4\obj\Debug\LB_4.csproj.CoreCompileInputs.cache
+C:\Users\Acid\Documents\GitHub\SP_RPM\LB_4\obj\Debug\LB_4.exe
+C:\Users\Acid\Documents\GitHub\SP_RPM\LB_4\obj\Debug\LB_4.pdb
+C:\Users\Acid\Documents\GitHub\SP_RPM\LB_4\obj\Debug\LB_4.exe.config
