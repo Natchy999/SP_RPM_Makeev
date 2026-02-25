@@ -28,6 +28,11 @@ namespace lab2_dasdasdas
             {
                 Console.WriteLine($"Имя: {Name}");
             }
+            public virtual void Info_change(string name) { 
+                string OldName = Name; 
+                Name = name;
+                Console.WriteLine($"Было изменено имя \"{OldName}\" на \"{Name}\"");
+            }
         }
         class Uma : Creature
         {
@@ -45,6 +50,12 @@ namespace lab2_dasdasdas
             public override void Info_get()
             {
                 Console.WriteLine($"Имя: {Name}\nСтаты:\n\tСкорость - {Speed}\n\tВыносливость - {Stamina}\n\tСила - {Power}\n\tВоля - {Guts}\n\tУм - {Wit}\n");
+            }
+            public override void Info_change(string name)
+            {
+                string OldName = base.Name;
+
+                base.Info_change(name);
             }
         }
         static void Main(string[] args)
